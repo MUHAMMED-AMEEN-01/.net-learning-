@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\Simple Intrest\Simple Intrest\obj\x86\Debug\Simple_Intrest.Form1.resources
+C:\Ameen\dotnet\saples\Simple Intrest\Simple Intrest\obj\x86\Debug\Simple_Intrest.Properties.Resources.resources
+C:\Ameen\dotnet\saples\Simple Intrest\Simple Intrest\obj\x86\Debug\Simple Intrest.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\Simple Intrest\Simple Intrest\bin\Debug\Simple Intrest.exe
+C:\Ameen\dotnet\saples\Simple Intrest\Simple Intrest\bin\Debug\Simple Intrest.pdb
+C:\Ameen\dotnet\saples\Simple Intrest\Simple Intrest\obj\x86\Debug\Simple Intrest.exe
+C:\Ameen\dotnet\saples\Simple Intrest\Simple Intrest\obj\x86\Debug\Simple Intrest.pdb
