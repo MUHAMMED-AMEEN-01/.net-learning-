@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\old enough to drive\old enough to drive\obj\x86\Debug\old_enough_to_drive.Form1.resources
+C:\Ameen\dotnet\saples\old enough to drive\old enough to drive\obj\x86\Debug\old_enough_to_drive.Properties.Resources.resources
+C:\Ameen\dotnet\saples\old enough to drive\old enough to drive\obj\x86\Debug\old enough to drive.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\old enough to drive\old enough to drive\bin\Debug\old enough to drive.exe
+C:\Ameen\dotnet\saples\old enough to drive\old enough to drive\bin\Debug\old enough to drive.pdb
+C:\Ameen\dotnet\saples\old enough to drive\old enough to drive\obj\x86\Debug\old enough to drive.exe
+C:\Ameen\dotnet\saples\old enough to drive\old enough to drive\obj\x86\Debug\old enough to drive.pdb
