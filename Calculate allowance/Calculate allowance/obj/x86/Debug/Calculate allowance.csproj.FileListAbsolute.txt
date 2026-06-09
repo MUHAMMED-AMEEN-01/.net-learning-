@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\Calculate allowance\Calculate allowance\obj\x86\Debug\Calculate_allowance.Form1.resources
+C:\Ameen\dotnet\saples\Calculate allowance\Calculate allowance\obj\x86\Debug\Calculate_allowance.Properties.Resources.resources
+C:\Ameen\dotnet\saples\Calculate allowance\Calculate allowance\obj\x86\Debug\Calculate allowance.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\Calculate allowance\Calculate allowance\bin\Debug\Calculate allowance.exe
+C:\Ameen\dotnet\saples\Calculate allowance\Calculate allowance\bin\Debug\Calculate allowance.pdb
+C:\Ameen\dotnet\saples\Calculate allowance\Calculate allowance\obj\x86\Debug\Calculate allowance.exe
+C:\Ameen\dotnet\saples\Calculate allowance\Calculate allowance\obj\x86\Debug\Calculate allowance.pdb
