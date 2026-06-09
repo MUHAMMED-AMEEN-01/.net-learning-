@@ -80,6 +80,7 @@ namespace Simple_Calculator
         {
             a = 0;
             a = Convert.ToDouble(textBox1.Text);
+
             textBox1.Text = "";
             op = "+";
 

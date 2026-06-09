@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\Area of a Triangle\Area of a Triangle\bin\Debug\Area of a Triangle.exe
+C:\Ameen\dotnet\saples\Area of a Triangle\Area of a Triangle\bin\Debug\Area of a Triangle.pdb
+C:\Ameen\dotnet\saples\Area of a Triangle\Area of a Triangle\obj\x86\Debug\Area_of_a_Triangle.Form1.resources
+C:\Ameen\dotnet\saples\Area of a Triangle\Area of a Triangle\obj\x86\Debug\Area_of_a_Triangle.Properties.Resources.resources
+C:\Ameen\dotnet\saples\Area of a Triangle\Area of a Triangle\obj\x86\Debug\Area of a Triangle.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\Area of a Triangle\Area of a Triangle\obj\x86\Debug\Area of a Triangle.exe
+C:\Ameen\dotnet\saples\Area of a Triangle\Area of a Triangle\obj\x86\Debug\Area of a Triangle.pdb
