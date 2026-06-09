@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\Celesius to Fahrenheit\Celesius to Fahrenheit\bin\Debug\Celesius to Fahrenheit.exe
+C:\Ameen\dotnet\saples\Celesius to Fahrenheit\Celesius to Fahrenheit\bin\Debug\Celesius to Fahrenheit.pdb
+C:\Ameen\dotnet\saples\Celesius to Fahrenheit\Celesius to Fahrenheit\obj\x86\Debug\Celesius_to_Fahrenheit.Form1.resources
+C:\Ameen\dotnet\saples\Celesius to Fahrenheit\Celesius to Fahrenheit\obj\x86\Debug\Celesius_to_Fahrenheit.Properties.Resources.resources
+C:\Ameen\dotnet\saples\Celesius to Fahrenheit\Celesius to Fahrenheit\obj\x86\Debug\Celesius to Fahrenheit.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\Celesius to Fahrenheit\Celesius to Fahrenheit\obj\x86\Debug\Celesius to Fahrenheit.exe
+C:\Ameen\dotnet\saples\Celesius to Fahrenheit\Celesius to Fahrenheit\obj\x86\Debug\Celesius to Fahrenheit.pdb
