@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\Sample2\Sample2\bin\Debug\Sample2.exe
+C:\Ameen\dotnet\saples\Sample2\Sample2\bin\Debug\Sample2.pdb
+C:\Ameen\dotnet\saples\Sample2\Sample2\obj\x86\Debug\Sample2.Form1.resources
+C:\Ameen\dotnet\saples\Sample2\Sample2\obj\x86\Debug\Sample2.Properties.Resources.resources
+C:\Ameen\dotnet\saples\Sample2\Sample2\obj\x86\Debug\Sample2.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\Sample2\Sample2\obj\x86\Debug\Sample2.exe
+C:\Ameen\dotnet\saples\Sample2\Sample2\obj\x86\Debug\Sample2.pdb

@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\Simple_Calculator\Simple_Calculator\bin\Debug\Simple_Calculator.exe
+C:\Ameen\dotnet\saples\Simple_Calculator\Simple_Calculator\bin\Debug\Simple_Calculator.pdb
+C:\Ameen\dotnet\saples\Simple_Calculator\Simple_Calculator\obj\x86\Debug\Simple_Calculator.Form1.resources
+C:\Ameen\dotnet\saples\Simple_Calculator\Simple_Calculator\obj\x86\Debug\Simple_Calculator.Properties.Resources.resources
+C:\Ameen\dotnet\saples\Simple_Calculator\Simple_Calculator\obj\x86\Debug\Simple_Calculator.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\Simple_Calculator\Simple_Calculator\obj\x86\Debug\Simple_Calculator.exe
+C:\Ameen\dotnet\saples\Simple_Calculator\Simple_Calculator\obj\x86\Debug\Simple_Calculator.pdb
