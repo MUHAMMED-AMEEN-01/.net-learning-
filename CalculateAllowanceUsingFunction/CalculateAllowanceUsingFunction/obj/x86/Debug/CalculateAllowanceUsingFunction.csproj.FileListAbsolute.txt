@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\CalculateAllowanceUsingFunction\CalculateAllowanceUsingFunction\bin\Debug\CalculateAllowanceUsingFunction.exe
+C:\Ameen\dotnet\saples\CalculateAllowanceUsingFunction\CalculateAllowanceUsingFunction\bin\Debug\CalculateAllowanceUsingFunction.pdb
+C:\Ameen\dotnet\saples\CalculateAllowanceUsingFunction\CalculateAllowanceUsingFunction\obj\x86\Debug\CalculateAllowanceUsingFunction.Form1.resources
+C:\Ameen\dotnet\saples\CalculateAllowanceUsingFunction\CalculateAllowanceUsingFunction\obj\x86\Debug\CalculateAllowanceUsingFunction.Properties.Resources.resources
+C:\Ameen\dotnet\saples\CalculateAllowanceUsingFunction\CalculateAllowanceUsingFunction\obj\x86\Debug\CalculateAllowanceUsingFunction.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\CalculateAllowanceUsingFunction\CalculateAllowanceUsingFunction\obj\x86\Debug\CalculateAllowanceUsingFunction.exe
+C:\Ameen\dotnet\saples\CalculateAllowanceUsingFunction\CalculateAllowanceUsingFunction\obj\x86\Debug\CalculateAllowanceUsingFunction.pdb
