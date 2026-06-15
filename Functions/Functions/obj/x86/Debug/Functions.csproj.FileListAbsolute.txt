@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\Functions\Functions\bin\Debug\Functions.exe
+C:\Ameen\dotnet\saples\Functions\Functions\bin\Debug\Functions.pdb
+C:\Ameen\dotnet\saples\Functions\Functions\obj\x86\Debug\Functions.Form1.resources
+C:\Ameen\dotnet\saples\Functions\Functions\obj\x86\Debug\Functions.Properties.Resources.resources
+C:\Ameen\dotnet\saples\Functions\Functions\obj\x86\Debug\Functions.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\Functions\Functions\obj\x86\Debug\Functions.exe
+C:\Ameen\dotnet\saples\Functions\Functions\obj\x86\Debug\Functions.pdb
