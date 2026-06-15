@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\AddItemToArray\AddItemToArray\bin\Debug\AddItemToArray.exe
+C:\Ameen\dotnet\saples\AddItemToArray\AddItemToArray\bin\Debug\AddItemToArray.pdb
+C:\Ameen\dotnet\saples\AddItemToArray\AddItemToArray\obj\x86\Debug\AddItemToArray.Form1.resources
+C:\Ameen\dotnet\saples\AddItemToArray\AddItemToArray\obj\x86\Debug\AddItemToArray.Properties.Resources.resources
+C:\Ameen\dotnet\saples\AddItemToArray\AddItemToArray\obj\x86\Debug\AddItemToArray.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\AddItemToArray\AddItemToArray\obj\x86\Debug\AddItemToArray.exe
+C:\Ameen\dotnet\saples\AddItemToArray\AddItemToArray\obj\x86\Debug\AddItemToArray.pdb
