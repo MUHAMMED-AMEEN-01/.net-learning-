@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\OldEnoughToDriveWithFunction\OldEnoughToDriveWithFunction\bin\Debug\OldEnoughToDriveWithFunction.exe
+C:\Ameen\dotnet\saples\OldEnoughToDriveWithFunction\OldEnoughToDriveWithFunction\bin\Debug\OldEnoughToDriveWithFunction.pdb
+C:\Ameen\dotnet\saples\OldEnoughToDriveWithFunction\OldEnoughToDriveWithFunction\obj\x86\Debug\OldEnoughToDriveWithFunction.Form1.resources
+C:\Ameen\dotnet\saples\OldEnoughToDriveWithFunction\OldEnoughToDriveWithFunction\obj\x86\Debug\OldEnoughToDriveWithFunction.Properties.Resources.resources
+C:\Ameen\dotnet\saples\OldEnoughToDriveWithFunction\OldEnoughToDriveWithFunction\obj\x86\Debug\OldEnoughToDriveWithFunction.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\OldEnoughToDriveWithFunction\OldEnoughToDriveWithFunction\obj\x86\Debug\OldEnoughToDriveWithFunction.exe
+C:\Ameen\dotnet\saples\OldEnoughToDriveWithFunction\OldEnoughToDriveWithFunction\obj\x86\Debug\OldEnoughToDriveWithFunction.pdb
