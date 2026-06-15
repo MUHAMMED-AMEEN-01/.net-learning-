@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\SimpleIntrestWithFunctioin\SimpleIntrestWithFunctioin\bin\Debug\SimpleIntrestWithFunctioin.exe
+C:\Ameen\dotnet\saples\SimpleIntrestWithFunctioin\SimpleIntrestWithFunctioin\bin\Debug\SimpleIntrestWithFunctioin.pdb
+C:\Ameen\dotnet\saples\SimpleIntrestWithFunctioin\SimpleIntrestWithFunctioin\obj\x86\Debug\SimpleIntrestWithFunctioin.Form1.resources
+C:\Ameen\dotnet\saples\SimpleIntrestWithFunctioin\SimpleIntrestWithFunctioin\obj\x86\Debug\SimpleIntrestWithFunctioin.Properties.Resources.resources
+C:\Ameen\dotnet\saples\SimpleIntrestWithFunctioin\SimpleIntrestWithFunctioin\obj\x86\Debug\SimpleIntrestWithFunctioin.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\SimpleIntrestWithFunctioin\SimpleIntrestWithFunctioin\obj\x86\Debug\SimpleIntrestWithFunctioin.exe
+C:\Ameen\dotnet\saples\SimpleIntrestWithFunctioin\SimpleIntrestWithFunctioin\obj\x86\Debug\SimpleIntrestWithFunctioin.pdb
