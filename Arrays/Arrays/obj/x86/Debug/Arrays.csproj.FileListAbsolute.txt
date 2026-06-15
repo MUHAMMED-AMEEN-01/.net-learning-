@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Ameen\dotnet\saples\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Ameen\dotnet\saples\Arrays\Arrays\obj\x86\Debug\Arrays.Form1.resources
+C:\Ameen\dotnet\saples\Arrays\Arrays\obj\x86\Debug\Arrays.Properties.Resources.resources
+C:\Ameen\dotnet\saples\Arrays\Arrays\obj\x86\Debug\Arrays.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\Arrays\Arrays\obj\x86\Debug\Arrays.exe
+C:\Ameen\dotnet\saples\Arrays\Arrays\obj\x86\Debug\Arrays.pdb
