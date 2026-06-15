@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\CelsiusToFahrenheitWithFunction\CelsiusToFahrenheitWithFunction\bin\Debug\CelsiusToFahrenheitWithFunction.exe
+C:\Ameen\dotnet\saples\CelsiusToFahrenheitWithFunction\CelsiusToFahrenheitWithFunction\bin\Debug\CelsiusToFahrenheitWithFunction.pdb
+C:\Ameen\dotnet\saples\CelsiusToFahrenheitWithFunction\CelsiusToFahrenheitWithFunction\obj\x86\Debug\CelsiusToFahrenheitWithFunction.Form1.resources
+C:\Ameen\dotnet\saples\CelsiusToFahrenheitWithFunction\CelsiusToFahrenheitWithFunction\obj\x86\Debug\CelsiusToFahrenheitWithFunction.Properties.Resources.resources
+C:\Ameen\dotnet\saples\CelsiusToFahrenheitWithFunction\CelsiusToFahrenheitWithFunction\obj\x86\Debug\CelsiusToFahrenheitWithFunction.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\CelsiusToFahrenheitWithFunction\CelsiusToFahrenheitWithFunction\obj\x86\Debug\CelsiusToFahrenheitWithFunction.exe
+C:\Ameen\dotnet\saples\CelsiusToFahrenheitWithFunction\CelsiusToFahrenheitWithFunction\obj\x86\Debug\CelsiusToFahrenheitWithFunction.pdb
