@@ -18,7 +18,7 @@ namespace ReverseOderDropdownloop
 
         private void button1_Click(object sender, EventArgs e)
         {
-            for (int i = 0; i < 11; i++)
+            for (int i = 10; i > 0; i--)
             {
                 comboBox1.Items.Add(i);
             }
@@ -27,11 +27,11 @@ namespace ReverseOderDropdownloop
 
         private void button2_Click(object sender, EventArgs e)
         {
-            int i = 0;
-            while (i < 16)
+            int i = 15;
+            while (i >0)
             {
                 comboBox1.Items.Add(i);
-                i++;
+                i--;
             }
         }
 
