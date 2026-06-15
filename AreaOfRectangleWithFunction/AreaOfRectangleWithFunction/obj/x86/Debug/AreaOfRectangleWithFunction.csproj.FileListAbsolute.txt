@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\AreaOfRectangleWithFunction\AreaOfRectangleWithFunction\bin\Debug\AreaOfRectangleWithFunction.exe
+C:\Ameen\dotnet\saples\AreaOfRectangleWithFunction\AreaOfRectangleWithFunction\bin\Debug\AreaOfRectangleWithFunction.pdb
+C:\Ameen\dotnet\saples\AreaOfRectangleWithFunction\AreaOfRectangleWithFunction\obj\x86\Debug\AreaOfRectangleWithFunction.Form1.resources
+C:\Ameen\dotnet\saples\AreaOfRectangleWithFunction\AreaOfRectangleWithFunction\obj\x86\Debug\AreaOfRectangleWithFunction.Properties.Resources.resources
+C:\Ameen\dotnet\saples\AreaOfRectangleWithFunction\AreaOfRectangleWithFunction\obj\x86\Debug\AreaOfRectangleWithFunction.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\AreaOfRectangleWithFunction\AreaOfRectangleWithFunction\obj\x86\Debug\AreaOfRectangleWithFunction.exe
+C:\Ameen\dotnet\saples\AreaOfRectangleWithFunction\AreaOfRectangleWithFunction\obj\x86\Debug\AreaOfRectangleWithFunction.pdb
