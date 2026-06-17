@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\Array Minimum maximum practice questions\Q1\Q1\bin\Debug\Q1.exe
+C:\Ameen\dotnet\saples\Array Minimum maximum practice questions\Q1\Q1\bin\Debug\Q1.pdb
+C:\Ameen\dotnet\saples\Array Minimum maximum practice questions\Q1\Q1\obj\x86\Debug\Q1.Form1.resources
+C:\Ameen\dotnet\saples\Array Minimum maximum practice questions\Q1\Q1\obj\x86\Debug\Q1.Properties.Resources.resources
+C:\Ameen\dotnet\saples\Array Minimum maximum practice questions\Q1\Q1\obj\x86\Debug\Q1.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\Array Minimum maximum practice questions\Q1\Q1\obj\x86\Debug\Q1.exe
+C:\Ameen\dotnet\saples\Array Minimum maximum practice questions\Q1\Q1\obj\x86\Debug\Q1.pdb
