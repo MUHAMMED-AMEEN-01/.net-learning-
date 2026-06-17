@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\tryforeach\tryforeach\bin\Debug\tryforeach.exe
+C:\Ameen\dotnet\saples\tryforeach\tryforeach\bin\Debug\tryforeach.pdb
+C:\Ameen\dotnet\saples\tryforeach\tryforeach\obj\x86\Debug\tryforeach.Form1.resources
+C:\Ameen\dotnet\saples\tryforeach\tryforeach\obj\x86\Debug\tryforeach.Properties.Resources.resources
+C:\Ameen\dotnet\saples\tryforeach\tryforeach\obj\x86\Debug\tryforeach.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\tryforeach\tryforeach\obj\x86\Debug\tryforeach.exe
+C:\Ameen\dotnet\saples\tryforeach\tryforeach\obj\x86\Debug\tryforeach.pdb
