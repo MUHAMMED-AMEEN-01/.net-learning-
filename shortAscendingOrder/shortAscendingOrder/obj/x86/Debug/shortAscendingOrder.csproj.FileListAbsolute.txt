@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\shortAscendingOrder\shortAscendingOrder\bin\Debug\shortAscendingOrder.exe
+C:\Ameen\dotnet\saples\shortAscendingOrder\shortAscendingOrder\bin\Debug\shortAscendingOrder.pdb
+C:\Ameen\dotnet\saples\shortAscendingOrder\shortAscendingOrder\obj\x86\Debug\shortAscendingOrder.Form1.resources
+C:\Ameen\dotnet\saples\shortAscendingOrder\shortAscendingOrder\obj\x86\Debug\shortAscendingOrder.Properties.Resources.resources
+C:\Ameen\dotnet\saples\shortAscendingOrder\shortAscendingOrder\obj\x86\Debug\shortAscendingOrder.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\shortAscendingOrder\shortAscendingOrder\obj\x86\Debug\shortAscendingOrder.exe
+C:\Ameen\dotnet\saples\shortAscendingOrder\shortAscendingOrder\obj\x86\Debug\shortAscendingOrder.pdb
