@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\genderRadioButton\genderRadioButton\bin\Debug\genderRadioButton.exe
+C:\Ameen\dotnet\saples\genderRadioButton\genderRadioButton\bin\Debug\genderRadioButton.pdb
+C:\Ameen\dotnet\saples\genderRadioButton\genderRadioButton\obj\x86\Debug\genderRadioButton.Form1.resources
+C:\Ameen\dotnet\saples\genderRadioButton\genderRadioButton\obj\x86\Debug\genderRadioButton.Properties.Resources.resources
+C:\Ameen\dotnet\saples\genderRadioButton\genderRadioButton\obj\x86\Debug\genderRadioButton.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\genderRadioButton\genderRadioButton\obj\x86\Debug\genderRadioButton.exe
+C:\Ameen\dotnet\saples\genderRadioButton\genderRadioButton\obj\x86\Debug\genderRadioButton.pdb
