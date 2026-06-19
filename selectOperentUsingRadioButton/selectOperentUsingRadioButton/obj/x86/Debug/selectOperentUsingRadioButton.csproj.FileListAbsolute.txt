@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\selectOperentUsingRadioButton\selectOperentUsingRadioButton\bin\Debug\selectOperentUsingRadioButton.exe
+C:\Ameen\dotnet\saples\selectOperentUsingRadioButton\selectOperentUsingRadioButton\bin\Debug\selectOperentUsingRadioButton.pdb
+C:\Ameen\dotnet\saples\selectOperentUsingRadioButton\selectOperentUsingRadioButton\obj\x86\Debug\selectOperentUsingRadioButton.Form1.resources
+C:\Ameen\dotnet\saples\selectOperentUsingRadioButton\selectOperentUsingRadioButton\obj\x86\Debug\selectOperentUsingRadioButton.Properties.Resources.resources
+C:\Ameen\dotnet\saples\selectOperentUsingRadioButton\selectOperentUsingRadioButton\obj\x86\Debug\selectOperentUsingRadioButton.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\selectOperentUsingRadioButton\selectOperentUsingRadioButton\obj\x86\Debug\selectOperentUsingRadioButton.exe
+C:\Ameen\dotnet\saples\selectOperentUsingRadioButton\selectOperentUsingRadioButton\obj\x86\Debug\selectOperentUsingRadioButton.pdb
