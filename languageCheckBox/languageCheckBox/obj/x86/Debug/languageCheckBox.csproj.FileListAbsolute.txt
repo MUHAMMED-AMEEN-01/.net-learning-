@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\languageCheckBox\languageCheckBox\obj\x86\Debug\languageCheckBox.Form1.resources
+C:\Ameen\dotnet\saples\languageCheckBox\languageCheckBox\obj\x86\Debug\languageCheckBox.Properties.Resources.resources
+C:\Ameen\dotnet\saples\languageCheckBox\languageCheckBox\obj\x86\Debug\languageCheckBox.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\languageCheckBox\languageCheckBox\bin\Debug\languageCheckBox.exe
+C:\Ameen\dotnet\saples\languageCheckBox\languageCheckBox\bin\Debug\languageCheckBox.pdb
+C:\Ameen\dotnet\saples\languageCheckBox\languageCheckBox\obj\x86\Debug\languageCheckBox.exe
+C:\Ameen\dotnet\saples\languageCheckBox\languageCheckBox\obj\x86\Debug\languageCheckBox.pdb
