@@ -1,0 +1,8 @@
+C:\Ameen\dotnet\saples\frentEndFrom\frentEndFrom\bin\Debug\frentEndFrom.exe
+C:\Ameen\dotnet\saples\frentEndFrom\frentEndFrom\bin\Debug\frentEndFrom.pdb
+C:\Ameen\dotnet\saples\frentEndFrom\frentEndFrom\obj\x86\Debug\frentEndFrom.Form1.resources
+C:\Ameen\dotnet\saples\frentEndFrom\frentEndFrom\obj\x86\Debug\frentEndFrom.Properties.Resources.resources
+C:\Ameen\dotnet\saples\frentEndFrom\frentEndFrom\obj\x86\Debug\frentEndFrom.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\frentEndFrom\frentEndFrom\obj\x86\Debug\frentEndFrom.exe
+C:\Ameen\dotnet\saples\frentEndFrom\frentEndFrom\obj\x86\Debug\frentEndFrom.pdb
+C:\Ameen\dotnet\saples\frentEndFrom\frentEndFrom\obj\x86\Debug\frentEndFrom.csprojResolveAssemblyReference.cache
