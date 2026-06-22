@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\classPropertiesProgram1\classPropertiesProgram1\obj\x86\Debug\classPropertiesProgram1.Form1.resources
+C:\Ameen\dotnet\saples\classPropertiesProgram1\classPropertiesProgram1\obj\x86\Debug\classPropertiesProgram1.Properties.Resources.resources
+C:\Ameen\dotnet\saples\classPropertiesProgram1\classPropertiesProgram1\obj\x86\Debug\classPropertiesProgram1.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\classPropertiesProgram1\classPropertiesProgram1\bin\Debug\classPropertiesProgram1.exe
+C:\Ameen\dotnet\saples\classPropertiesProgram1\classPropertiesProgram1\bin\Debug\classPropertiesProgram1.pdb
+C:\Ameen\dotnet\saples\classPropertiesProgram1\classPropertiesProgram1\obj\x86\Debug\classPropertiesProgram1.exe
+C:\Ameen\dotnet\saples\classPropertiesProgram1\classPropertiesProgram1\obj\x86\Debug\classPropertiesProgram1.pdb
