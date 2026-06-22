@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\classProject2\classProject2\obj\x86\Debug\classProject2.Form1.resources
+C:\Ameen\dotnet\saples\classProject2\classProject2\obj\x86\Debug\classProject2.Properties.Resources.resources
+C:\Ameen\dotnet\saples\classProject2\classProject2\obj\x86\Debug\classProject2.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\classProject2\classProject2\bin\Debug\classProject2.exe
+C:\Ameen\dotnet\saples\classProject2\classProject2\bin\Debug\classProject2.pdb
+C:\Ameen\dotnet\saples\classProject2\classProject2\obj\x86\Debug\classProject2.exe
+C:\Ameen\dotnet\saples\classProject2\classProject2\obj\x86\Debug\classProject2.pdb
