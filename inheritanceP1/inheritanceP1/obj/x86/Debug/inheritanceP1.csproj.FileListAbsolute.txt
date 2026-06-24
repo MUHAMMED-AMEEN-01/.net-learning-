@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\inheritanceP1\inheritanceP1\bin\Debug\inheritanceP1.exe
+C:\Ameen\dotnet\saples\inheritanceP1\inheritanceP1\bin\Debug\inheritanceP1.pdb
+C:\Ameen\dotnet\saples\inheritanceP1\inheritanceP1\obj\x86\Debug\inheritanceP1.Form1.resources
+C:\Ameen\dotnet\saples\inheritanceP1\inheritanceP1\obj\x86\Debug\inheritanceP1.Properties.Resources.resources
+C:\Ameen\dotnet\saples\inheritanceP1\inheritanceP1\obj\x86\Debug\inheritanceP1.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\inheritanceP1\inheritanceP1\obj\x86\Debug\inheritanceP1.exe
+C:\Ameen\dotnet\saples\inheritanceP1\inheritanceP1\obj\x86\Debug\inheritanceP1.pdb
