@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\constructerP1\constructerP1\bin\Debug\constructerP1.exe
+C:\Ameen\dotnet\saples\constructerP1\constructerP1\bin\Debug\constructerP1.pdb
+C:\Ameen\dotnet\saples\constructerP1\constructerP1\obj\x86\Debug\constructerP1.Form1.resources
+C:\Ameen\dotnet\saples\constructerP1\constructerP1\obj\x86\Debug\constructerP1.Properties.Resources.resources
+C:\Ameen\dotnet\saples\constructerP1\constructerP1\obj\x86\Debug\constructerP1.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\constructerP1\constructerP1\obj\x86\Debug\constructerP1.exe
+C:\Ameen\dotnet\saples\constructerP1\constructerP1\obj\x86\Debug\constructerP1.pdb
