@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\test\test\bin\Debug\test.exe
+C:\Ameen\dotnet\saples\test\test\bin\Debug\test.pdb
+C:\Ameen\dotnet\saples\test\test\obj\x86\Debug\test.Form1.resources
+C:\Ameen\dotnet\saples\test\test\obj\x86\Debug\test.Properties.Resources.resources
+C:\Ameen\dotnet\saples\test\test\obj\x86\Debug\test.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\test\test\obj\x86\Debug\test.exe
+C:\Ameen\dotnet\saples\test\test\obj\x86\Debug\test.pdb
