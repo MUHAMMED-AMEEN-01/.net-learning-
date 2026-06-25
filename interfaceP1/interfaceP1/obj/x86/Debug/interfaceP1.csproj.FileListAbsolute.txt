@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\interfaceP1\interfaceP1\obj\x86\Debug\interfaceP1.Form1.resources
+C:\Ameen\dotnet\saples\interfaceP1\interfaceP1\obj\x86\Debug\interfaceP1.Properties.Resources.resources
+C:\Ameen\dotnet\saples\interfaceP1\interfaceP1\obj\x86\Debug\interfaceP1.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\interfaceP1\interfaceP1\bin\Debug\interfaceP1.exe
+C:\Ameen\dotnet\saples\interfaceP1\interfaceP1\bin\Debug\interfaceP1.pdb
+C:\Ameen\dotnet\saples\interfaceP1\interfaceP1\obj\x86\Debug\interfaceP1.exe
+C:\Ameen\dotnet\saples\interfaceP1\interfaceP1\obj\x86\Debug\interfaceP1.pdb
