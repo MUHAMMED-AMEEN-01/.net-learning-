@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\exeptionHandleP1\exeptionHandleP1\obj\x86\Debug\exeptionHandleP1.Form1.resources
+C:\Ameen\dotnet\saples\exeptionHandleP1\exeptionHandleP1\obj\x86\Debug\exeptionHandleP1.Properties.Resources.resources
+C:\Ameen\dotnet\saples\exeptionHandleP1\exeptionHandleP1\obj\x86\Debug\exeptionHandleP1.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\exeptionHandleP1\exeptionHandleP1\bin\Debug\exeptionHandleP1.exe
+C:\Ameen\dotnet\saples\exeptionHandleP1\exeptionHandleP1\bin\Debug\exeptionHandleP1.pdb
+C:\Ameen\dotnet\saples\exeptionHandleP1\exeptionHandleP1\obj\x86\Debug\exeptionHandleP1.exe
+C:\Ameen\dotnet\saples\exeptionHandleP1\exeptionHandleP1\obj\x86\Debug\exeptionHandleP1.pdb
