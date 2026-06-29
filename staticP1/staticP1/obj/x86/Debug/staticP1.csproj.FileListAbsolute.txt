@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\staticP1\staticP1\bin\Debug\staticP1.exe
+C:\Ameen\dotnet\saples\staticP1\staticP1\bin\Debug\staticP1.pdb
+C:\Ameen\dotnet\saples\staticP1\staticP1\obj\x86\Debug\staticP1.Form1.resources
+C:\Ameen\dotnet\saples\staticP1\staticP1\obj\x86\Debug\staticP1.Properties.Resources.resources
+C:\Ameen\dotnet\saples\staticP1\staticP1\obj\x86\Debug\staticP1.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\staticP1\staticP1\obj\x86\Debug\staticP1.exe
+C:\Ameen\dotnet\saples\staticP1\staticP1\obj\x86\Debug\staticP1.pdb
