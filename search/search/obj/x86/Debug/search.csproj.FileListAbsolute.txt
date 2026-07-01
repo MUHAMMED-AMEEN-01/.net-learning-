@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\search\search\bin\Debug\search.exe
+C:\Ameen\dotnet\saples\search\search\bin\Debug\search.pdb
+C:\Ameen\dotnet\saples\search\search\obj\x86\Debug\search.Form1.resources
+C:\Ameen\dotnet\saples\search\search\obj\x86\Debug\search.Properties.Resources.resources
+C:\Ameen\dotnet\saples\search\search\obj\x86\Debug\search.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\search\search\obj\x86\Debug\search.exe
+C:\Ameen\dotnet\saples\search\search\obj\x86\Debug\search.pdb
