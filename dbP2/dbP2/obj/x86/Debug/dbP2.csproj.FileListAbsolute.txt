@@ -1,0 +1,7 @@
+C:\Ameen\dotnet\saples\dbP2\dbP2\bin\Debug\dbP2.exe
+C:\Ameen\dotnet\saples\dbP2\dbP2\bin\Debug\dbP2.pdb
+C:\Ameen\dotnet\saples\dbP2\dbP2\obj\x86\Debug\dbP2.Form1.resources
+C:\Ameen\dotnet\saples\dbP2\dbP2\obj\x86\Debug\dbP2.Properties.Resources.resources
+C:\Ameen\dotnet\saples\dbP2\dbP2\obj\x86\Debug\dbP2.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\dbP2\dbP2\obj\x86\Debug\dbP2.exe
+C:\Ameen\dotnet\saples\dbP2\dbP2\obj\x86\Debug\dbP2.pdb
