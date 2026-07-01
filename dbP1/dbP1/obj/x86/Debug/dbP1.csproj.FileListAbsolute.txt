@@ -1,0 +1,8 @@
+C:\Ameen\dotnet\saples\dbP1\dbP1\bin\Debug\dbP1.exe
+C:\Ameen\dotnet\saples\dbP1\dbP1\bin\Debug\dbP1.pdb
+C:\Ameen\dotnet\saples\dbP1\dbP1\obj\x86\Debug\dbP1.Form1.resources
+C:\Ameen\dotnet\saples\dbP1\dbP1\obj\x86\Debug\dbP1.Properties.Resources.resources
+C:\Ameen\dotnet\saples\dbP1\dbP1\obj\x86\Debug\dbP1.csproj.GenerateResource.Cache
+C:\Ameen\dotnet\saples\dbP1\dbP1\obj\x86\Debug\dbP1.exe
+C:\Ameen\dotnet\saples\dbP1\dbP1\obj\x86\Debug\dbP1.pdb
+C:\Ameen\dotnet\saples\dbP1\dbP1\obj\x86\Debug\dbP1.csprojResolveAssemblyReference.cache
